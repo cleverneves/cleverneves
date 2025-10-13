@@ -1,12 +1,10 @@
 
-<ul>
- <li>Formado em Sistemas de Informação.</li>
- <li>Pós-graduado em Engenharia de Software.</li>
- <li>Pós-graduado em Gestão da Tecnologia da Informação e Transformação Digital.</li>
- <li>Pós-graduado em Inteligência Artificial para Negócios.</li>
-</ul>
+- Formado em Sistemas de Informação.
+- Pós-graduado em Engenharia de Software.
+- Pós-graduado em Gestão da Tecnologia da Informação e Transformação Digital.
+- Pós-graduado em Inteligência Artificial para Negócios.
 
-<h1> Stacks: </h1> 
+# Stacks:  
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)&nbsp;
@@ -42,17 +40,11 @@
 
 </div>
 
-<h1> Contatos: </h1> 
 
-<div align="center">
- 
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=2EFFAB" /></a>
- <a href="https://br.linkedin.com/in/cleverton-neves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=2EFFAB" /></a>
- <a href="https://www.twitter.com/cleverbneves" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=2EFFAB" /></a>
- <a href="https://gitlab.com/clevernvs" target="_blank"><img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=2EFFAB" /></a>
- <a href="https://github.com/clevernvs" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=2EFFAB" /></a> 
- 
-</div>
+# Contatos: 
 
+- E-mail: cleverton.nvs@gmail.com
+- LinkedIn: https://www.linkedin.com/in/cleverton-neves/
+- Github: https://github.com/clevernvs
 
 
