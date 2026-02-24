@@ -7,17 +7,15 @@
 # Stacks:  
 <div align="center">
 
+![Typescript](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)&nbsp; 
-![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django)&nbsp; 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django)&nbsp; 
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)&nbsp;
 ![NestJs](https://img.shields.io/badge/-NESTJS-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E)&nbsp; 
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=laravel)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker)&nbsp;
 
 <!--
@@ -28,6 +26,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-1e272e?style=for-the-badge&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-1e272e?style=for-the-badge&logo=gitlab)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-1e272e?style=for-the-badge&logoColor=0078D6&logo=windows)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-1e272e?style=for-the-badge&logo=linux)&nbsp;
 ![NEXTJS](https://img.shields.io/badge/-NEXTJS-1e272e?style=for-the-badge&logo=next.js)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-1e272e?style=for-the-badge&logo=amazonaws)&nbsp; 
