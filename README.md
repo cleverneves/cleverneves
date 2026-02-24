@@ -1,8 +1,8 @@
-
-- Formado em Sistemas de Informação.
-- Pós-graduado em Engenharia de Software.
-- Pós-graduado em Gestão da Tecnologia da Informação e Transformação Digital.
-- Pós-graduado em Inteligência Artificial para Negócios.
+# Software Engineer
+- Bachelor’s Degree in Information Systems.
+- Postgraduate Degree in Software Engineering.
+- Postgraduate Degree in Information Technology Management and Digital Transformation.
+- Postgraduate Degree in Artificial Intelligence for Business.
 
 # Stacks:  
 <div align="center">
@@ -40,11 +40,7 @@
 
 </div>
 
-
-# Contatos: 
-
-- E-mail: cleverton.nvs@gmail.com
+# Contatos:
 - LinkedIn: https://www.linkedin.com/in/cleverton-neves/
-- Github: https://github.com/clevernvs
-
-
+- Github: https://github.com/cleverneves
+- E-mail: cleverton.nvs@gmail.com
