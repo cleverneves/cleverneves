@@ -4,44 +4,22 @@
 - Postgraduate Degree in Information Technology Management and Digital Transformation.
 - Postgraduate Degree in Artificial Intelligence for Business.
 
-# Stacks:  
+## Skills:  
+- **Software Architecture:** Developing distributed and scalable systems using Microservices with Node.js (NestJS) and PHP (Laravel).
+- **Full-Stack Observability:** Implementing advanced telemetry and performance monitoring with the LGTM stack (Grafana, Prometheus, Jaeger).
+- **Infrastructure as Code (IaC):** Provisioning and automating AWS environments using Terraform.
+- **Orchestration & Containers:** Expert in Docker containerization and Kubernetes cluster management.
+- **Modern Frontend Development:** Building high-performance, UX-focused interfaces with React and Next.js.
+
+## Stacks:  
+
 <div align="center">
 
-![Typescript](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php)&nbsp;
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)&nbsp; 
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django)&nbsp; 
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)&nbsp;
-![NestJs](https://img.shields.io/badge/-NESTJS-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E)&nbsp; 
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=laravel)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker)&nbsp;
-
-<!--
-![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![Vue](https://img.shields.io/badge/-Vuejs-1e272e?style=for-the-badge&logo=vue.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-1e272e?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-1e272e?style=for-the-badge&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-1e272e?style=for-the-badge&logo=gitlab)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-1e272e?style=for-the-badge&logoColor=0078D6&logo=windows)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-1e272e?style=for-the-badge&logo=linux)&nbsp;
-![NEXTJS](https://img.shields.io/badge/-NEXTJS-1e272e?style=for-the-badge&logo=next.js)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-1e272e?style=for-the-badge&logo=amazonaws)&nbsp; 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1e272e?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-1e272e?style=for-the-badge&logo=jenkins)&nbsp; 
-![Ansible](https://img.shields.io/badge/-Ansible-1e272e?style=for-the-badge&logo=ansible)&nbsp; 
-![Terraform](https://img.shields.io/badge/-Terraform-1e272e?style=for-the-badge&logo=terraform&logoColor=7B42BC)&nbsp; 
-![AzureDevops](https://img.shields.io/badge/-AzureDevops-1e272e?style=for-the-badge&logo=azuredevops)&nbsp; 
--->
-
+  [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,php,python,nodejs,django,react,nestjs,nextjs,laravel,docker,aws)](https://skillicons.dev)
+  
 </div>
 
-# Contatos:
-- LinkedIn: https://www.linkedin.com/in/cleverton-neves/
-- Github: https://github.com/cleverneves
-- E-mail: cleverton.nvs@gmail.com
+# Contacts:
+- [LinkedIn](https://www.linkedin.com/in/cleverton-neves/)
+- [Github](https://github.com/cleverneves)
+- [E-mail](cleverton.nvs@gmail.com)
