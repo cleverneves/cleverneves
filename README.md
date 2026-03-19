@@ -13,9 +13,17 @@
 
 ## Stacks:  
 
+### Development
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,php,python,nodejs,django,react,nestjs,nextjs,laravel,docker,aws&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=typescript,python,php,nodejs,django,react,nestjs,laravel&theme=dark)](https://skillicons.dev)
+  
+</div>
+
+### DevOps / Infra / Cloud
+<div align="center">
+
+  [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws&theme=dark)](https://skillicons.dev)
   
 </div>
 
