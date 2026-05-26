@@ -1,7 +1,6 @@
 # Software Engineer
 - Bachelor’s Degree in Information Systems.
 - Postgraduate Degree in Software Engineering.
-- Postgraduate Degree in Information Technology Management and Digital Transformation.
 - Postgraduate Degree in Artificial Intelligence for Business.
 
 ## Skills:  
@@ -30,6 +29,7 @@
 # Projetcs:
 - [Temperature Converter](https://github.com/cleverneves/temperature-converter) - Fahrenheit/Celsius temperature converter
 - [Gatekeeper](https://github.com/cleverneves/gatekeeper) - Sophisticated and Secure Access Control for applications.
+- [Vayro](https://github.com/cleverneves/vayro) - REST API for car rental system
 
 # Contacts:
 - [LinkedIn](https://www.linkedin.com/in/cleverton-neves/)
