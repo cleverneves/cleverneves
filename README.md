@@ -15,7 +15,7 @@
 ### Development
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=typescript,python,php,nodejs,django,react,nestjs,laravel&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=typescript,python,php,nodejs,django,fastapi,react,nestjs,laravel&theme=dark)](https://skillicons.dev)
   
 </div>
 
