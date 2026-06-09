@@ -12,14 +12,21 @@
 
 ## Stacks:  
 
-### Development
+### Development:
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=typescript,python,php,nodejs,django,fastapi,react,nestjs,laravel&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,typescript,php&theme=dark)](https://skillicons.dev)
   
 </div>
 
-### DevOps / Infra / Cloud
+### Frameworks:
+<div align="center">
+
+  [![My Skills](https://skillicons.dev/icons?i=fastapi,django,nodejs,react,nestjs,laravel&theme=dark)](https://skillicons.dev)
+  
+</div>
+
+### DevOps / Infra / Cloud:
 <div align="center">
 
   [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws&theme=dark)](https://skillicons.dev)
@@ -27,10 +34,11 @@
 </div>
 
 # Projetcs:
+- [Q&A Document](https://github.com/cleverneves/qa-documentation-api) - REST API with RAG for intern documentation
 - [Temperature Converter](https://github.com/cleverneves/temperature-converter) - Fahrenheit/Celsius temperature converter
 - [Gatekeeper](https://github.com/cleverneves/gatekeeper) - Sophisticated and Secure Access Control for applications.
 - [Vayro](https://github.com/cleverneves/vayro) - REST API for car rental system
-
+  
 # Contacts:
 - [LinkedIn](https://www.linkedin.com/in/cleverton-neves/)
 - [Github](https://github.com/cleverneves)
