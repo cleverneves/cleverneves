@@ -64,13 +64,24 @@ Software Engineer focused on building modern backend applications with Software 
 
 # Featured Projects
 
-### Q&A Documentation
 
-AI-powered documentation API using Retrieval-Augmented Generation (RAG).
+### Knowly
 
-**Tech:** FastAPI • RAG • Embeddings • Semantic Search • Docker
+AI-powered knowledge assistant for querying technical documentation using Retrieval-Augmented Generation (RAG)
 
-https://github.com/cleverneves/qa-documentation-api
+**Tech:** FastAPI • RAG • Amazon BedRock • Embeddings • Semantic Search • Docker
+
+https://github.com/cleverneves/knowly-rag
+
+---
+
+### Chatbot Documentation
+
+Chatbot for documentation
+
+**Tech:** FastAPI • React • RAG • Embeddings • Semantic Search • Docker
+
+https://github.com/cleverneves/documentation-chatbot
 
 ---
 
@@ -90,7 +101,7 @@ REST API for a car rental platform.
 
 **Tech:** Laravel • REST API • Docker
 
-https://github.com/cleverneves/vayro
+https://github.com/cleverneves/vayro-api
 
 ---
 
