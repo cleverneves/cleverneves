@@ -4,33 +4,10 @@ Software Engineer focused on building modern backend applications with Software 
 
 ---
 
-## Education
-
-- Bachelor's Degree in Information Systems
-- Postgraduate Degree in Software Engineering
-- Postgraduate Degree in Artificial Intelligence for Business
-
----
-
 ## Focus Areas
 
 - Software Architecture
 - Artificial Intelligence
-- Cloud-Native Applications
-- DevOps & Platform Engineering
-- Backend Development
-
----
-
-## Engineering Practices
-
-- Clean Architecture
-- Domain-Driven Design (DDD)
-- SOLID Principles
-- REST API Design
-- Infrastructure as Code
-- Observability
-- CI/CD
 
 ---
 
@@ -60,60 +37,6 @@ Software Engineer focused on building modern backend applications with Software 
 
 </div>
 
----
-
-# Featured Projects
-
-
-### Knowly
-
-AI-powered knowledge assistant for querying technical documentation using Retrieval-Augmented Generation (RAG)
-
-**Tech:** FastAPI • RAG • Amazon BedRock • Embeddings • Semantic Search • Docker
-
-https://github.com/cleverneves/knowly-rag
-
----
-
-### Chatbot Documentation
-
-Chatbot for documentation
-
-**Tech:** FastAPI • React • RAG • Embeddings • Semantic Search • Docker
-
-https://github.com/cleverneves/documentation-chatbot
-
----
-
-### Gatekeeper
-
-Authentication and Authorization API for modern applications.
-
-**Tech:** NestJS • JWT • Docker • PostgreSQL
-
-https://github.com/cleverneves/gatekeeper
-
----
-
-### Vayro
-
-REST API for a car rental platform.
-
-**Tech:** Laravel • REST API • Docker
-
-https://github.com/cleverneves/vayro-api
-
----
-
-## Currently Learning
-
-- AI Engineering
-- LangGraph
-- Multi-Agent Systems
-- Model Context Protocol (MCP)
-- Platform Engineering
-- Kubernetes
-- System Design
 
 ---
 
